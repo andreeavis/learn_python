@@ -1,0 +1,28 @@
+Day 1 & 2
+
+# don't repeat yourself! be lazy 
+
+#assignment by value, not by object; when we reassignt the value, it doesn't change the var2 value. 
+VARIABLES POINT TO VALUES, NOT TO OBJECTS OR OTHER VARIABLES!!!!! =>so if you define a variable, it stays that way, until you re-define it
+
+#integer overflow: 
+https://www.reddit.com/r/explainlikeimfive/comments/34pk8v/eli5_what_is_a_32_bit_integer_overflow/
+
+#maximum 62 bit: https://stackoverflow.com/questions/6003492/how-big-can-a-64bit-signed-integer-be
+
+#maximum 32-bit: 
+https://en.wikipedia.org/wiki/Integer_%28computer_science%29
+
+
+Day 3
+
+#transform int into str:
+str(2)
+
+#transform str into int:
+int('3')
+
+#script = file you have your functions in that you run on your new file as input
+
+# module = a file that has definitions and can be used asa script or an interactive instance of the interpreter
+https://docs.python.org/2/tutorial/modules.html

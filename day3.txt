@@ -1,0 +1,5 @@
+#transform int into str:
+str(2)
+
+#transform str into int:
+int('3')
